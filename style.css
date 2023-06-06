@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: aquamarine;
+}
+
+img {
+    height: 500px;
+    width; auto;
+}
+
+div {
+    text-align: center;
+}
+
+h3 { 
+    font-family: 'Courier New', Courier, monospace;
+    color: #2a1780; 
+}
+
+.recipes,
+.ingredients,
+.directions {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+.ingredients {
+    background-color: rgb(237, 142, 172);
+}
+
+.directions {
+    background-color: rgb(142, 237, 180);
+}
