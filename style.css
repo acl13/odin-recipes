@@ -11,7 +11,7 @@ img {
 }
 
 div {
-    text-align: center;
+    display: inline-block;
 }
 
 h3 { 
@@ -28,13 +28,16 @@ h3 {
 
 .ingredients {
     background-color: rgb(237, 142, 172);
+   
 }
 
 .directions {
     background-color: rgb(142, 237, 180);
+   
+
 }
 
-.recipes button {
+.links button {
     background-color: plum;
     font-size: 18px;
     padding: 8px 16px;
