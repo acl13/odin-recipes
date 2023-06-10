@@ -33,3 +33,9 @@ h3 {
 .directions {
     background-color: rgb(142, 237, 180);
 }
+
+.recipes button {
+    background-color: plum;
+    font-size: 18px;
+    padding: 8px 16px;
+}
