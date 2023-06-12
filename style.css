@@ -37,7 +37,7 @@ h3 {
    
 }
 
-.links button {
+.links  {
     background-color: plum;
     font-size: 18px;
     padding: 8px 16px;
@@ -46,6 +46,8 @@ h3 {
 .recipe {
     vertical-align: text-bottom;
     border: 2px solid black;
+    width: 500px;
+
 
 
 }
